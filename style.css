@@ -1,0 +1,245 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.row1{
+    position: fixed;
+}
+
+ul {
+    margin-left: 400px; 
+}
+/* a:hover{
+    color:rgb(254, 233, 6);
+} */
+.i1{
+    margin-right: 15px;
+}
+.dv{
+    font-size: 30px;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.i1:hover{
+   background-color:rgb(254, 233, 6);
+   border-radius: 50%;
+   cursor: pointer;
+}
+.image{
+    height: 730px;
+    background-image: url(./photo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.name{
+    text-align: center;
+    margin-top: 300px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#h1{
+    font-weight: 900;
+    font-size: 40px;
+}
+#para{
+    font-size: 15px;
+    margin-top: 13px;
+}
+.dv2{
+    text-align: center;
+}
+#heading{
+    margin-top: 100px;
+    font-size: 40px;
+    font-weight: 700;
+    text-shadow: 0px -20px 4px rgb(147, 147, 148);
+}
+.image2{
+   background-image: url(./photo2.jpeg);
+   height: 600px;
+   background-size: cover;
+}
+#h3{
+    font-weight: 900;
+}
+#h6{
+    font-size: 18px;
+}
+.spn{
+    font-size: 18px;
+    font-weight: 700;
+}
+/* services cards */
+.crd{
+    height: 250px;
+    box-shadow: 5px 10px 10px rgb(193, 191, 191);
+    overflow: hidden;
+}
+.crd:hover{
+    background-color: rgb(254, 198, 85);
+    transition-duration: 1s;
+}
+.page4{
+    height: 600px;
+    background-image: url(./photo3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 80%;
+    
+}
+.photo{
+    border: 5px solid rgb(143, 122, 122);
+    border-radius: 50%;
+    background-image: url(./girl.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.txt{
+    text-align: center;
+}
+.intro{
+    text-align: center;
+}
+.p1{
+    background-image:url(./p1.jpg) ;
+    background-size: cover;
+}
+.p2{
+    background-image:url(./p2.jpeg) ;
+    background-size: cover;
+}
+.p3{
+    background-image:url(./p3.jpg) ;
+    background-size: cover;
+}
+.p4{
+    background-image:url(./p4.jpeg) ;
+    background-size: cover;
+}
+.p5{
+    background-image:url(./p5.jpg) ;
+    background-size: cover;
+}
+.p6{
+    background-image:url(./p6.jpg) ;
+    background-size: cover;
+}
+.p7{
+    background-image:url(./p7.jpg) ;
+    background-size: cover;
+}
+.p8{
+    background-image:url(./p8.jpeg) ;
+    background-size: cover;
+}
+.p9{
+    background-image:url(./p9.jpg) ;
+    background-size: cover;
+}
+.p10{
+    background-image:url(./p10.jpg) ;
+    background-size: cover;
+}
+.p11{
+    background-image:url(./p11.jpg) ;
+    background-size: cover;
+}
+.p12{
+    background-image:url(./p12.jpg) ;
+    background-size: cover;
+}
+.crd1{
+    border-radius: 15px;
+    box-shadow: 0px 0px 40px rgb(172, 206, 220);
+}
+.small{
+    font-size: 50px;
+    color: rgb(250, 142, 65) ;
+}
+.big{
+    color: rgb(250, 142, 65);
+    font-size: 50px; 
+}
+.mid{
+    font-size: 25px;
+    font-weight: 300;
+}
+#cardheading{
+    font-weight: 900;
+}
+.btn1{
+    height: 40px;
+    width: 100px;
+    color: rgb(254, 146, 22);
+    border: 2px solid rgb(254, 146, 22);
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.btn1:hover{
+    background-color: rgb(254, 146, 22);
+    color: white;
+}
+.call{
+    text-align: center;
+    border-right: 1px solid gray;
+}
+.call1{
+    text-align: center;
+}
+.form1{
+    box-shadow: 0px 0px 20px rgb(177, 206, 206);
+}
+.mail{
+    height: 50px;
+    margin-top: 20px;
+}
+.sub{
+    height: 50px;
+    margin-top: 20px;
+}
+#area{
+    margin-top: 20px;
+    height: 160px;
+    width: 100%;
+}
+.btn2{
+    height: 45px;
+    width: 180px;
+    border: none;
+    border-radius: 30px;
+    background-color:rgb(254, 146, 22) ;
+    font-size: 22px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.footer{
+    text-align: center;
+    color: white;
+}
+#h7{
+    font-weight: 800;
+}
+.ic{
+    height: 50px;
+    width: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+.ftric{
+    margin-top: 11px;
+}
+.icon{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color:rgb(254, 146, 22) ;
+    text-align: center;
+    margin: auto;
+}
+.active{
+   color: white;
+
+}
+
